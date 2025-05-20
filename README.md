@@ -9,7 +9,7 @@ It introduces an odds-layered segmentation framework, SHAP-based model interpret
 
 ## 🧠 Key Highlights
 - Multi-layer odds binning + behavior-based mispricing detection
-- 20+ engineered odds/statistical features
+- 100+ engineered odds/statistical features
 - SHAP analysis revealing feature importance and behavioral biases
 - Portfolio-level backtesting with ROI, Sharpe, and Calmar ratio analysis
 
