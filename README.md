@@ -42,7 +42,9 @@ I'm open to research collaboration, investment discussions, and institutional ap
 
 📧 Email: scropion011112@gmail.com  
 📬 Telegram: https://t.me/Quantitative_Football_Betting
+
 📱 WeChat: Available upon request  （DM）
+
 🌐 LinkedIn: https://www.linkedin.com/in/jun-chen-550449327
 
 **To access the full strategy logic, mispricing trigger design, and real-time portfolio integration, please reach out for NDA-based discussion.**
