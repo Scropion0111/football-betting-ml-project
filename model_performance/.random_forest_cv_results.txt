@@ -1,1 +1,12 @@
+### 📊 Model Performance (Random Forest)
+
+Five-fold cross-validation results for the Random Forest classifier on the selected match sample.
+
+- Average Accuracy: 0.7441  
+- Average AUC: 0.8519  
+- Average F1 Score: 0.6632  
+- Average Validation Accuracy: 0.8097  
+- Training Time per Fold: ~1.11 seconds
+
+📄 [View Full CV Result](model_performance/random_forest_cv_results.txt)
 
