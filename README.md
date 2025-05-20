@@ -32,7 +32,7 @@ You may share the work non-commercially with attribution, but not modify or use 
 
 ---
 ![Fixed Fraction Strategy](portfolio_summary/Fixed_Fraction_Betting_Strategy.png)
-
+📄 [View detailed cross-validation results](model_performance/random_forest_cv_results.md)
 
 © 2025 by JUN CHEN. All rights reserved.
 
