@@ -1,1 +1,7 @@
 
+### 🔍 Feature Importance (Random Forest)
+
+Below is the average top 30 feature importance across 5-fold cross-validation using Random Forest.  
+It reflects how match-level statistical features like shot difference and possession variation contribute to the model.
+
+![Feature Importance](shap_visuals/feature_importance_rf_cv.png)
