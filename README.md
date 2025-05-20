@@ -35,3 +35,16 @@ You may share the work non-commercially with attribution, but not modify or use 
 © 2025 by JUN CHEN. All rights reserved.
 
 
+
+## 🤝 Contact & Collaboration
+
+I'm open to research collaboration, investment discussions, and institutional applications of this modeling framework.
+
+📧 Email: scropion011112@gmail.com  
+📬 Telegram: https://t.me/Quantitative_Football_Betting
+📱 WeChat: Available upon request  （DM）
+🌐 LinkedIn: https://www.linkedin.com/in/jun-chen-550449327
+
+**To access the full strategy logic, mispricing trigger design, and real-time portfolio integration, please reach out for NDA-based discussion.**
+
+
