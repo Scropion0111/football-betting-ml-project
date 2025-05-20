@@ -31,6 +31,8 @@ This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licens
 You may share the work non-commercially with attribution, but not modify or use for commercial purposes.
 
 ---
+![Fixed Fraction Strategy](portfolio_summary/Fixed_Fraction_Betting_Strategy.png)
+
 
 © 2025 by JUN CHEN. All rights reserved.
 
